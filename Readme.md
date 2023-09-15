@@ -96,3 +96,4 @@
 - python manage.py runserver
 
 
+![Alt text](Israel.drawio.png)
